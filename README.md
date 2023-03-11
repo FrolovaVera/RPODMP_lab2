@@ -1,16 +1,7 @@
-# lab2
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# RPODMP_lab2
+«Rss-reader»
+Требуется разработать приложение с графическим интерфейсом, поддерживающее просмотр любой
+rss-ленты. Необходимо реализовать парсинг xml и отображение списка новостей и так же
+детальное отображение новости используя UIWebView(то есть открываться страница будет 
+в приложении, а не браузере)
+Можно загружать новостную ленту как из файла, так и из интернета.
